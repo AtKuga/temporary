@@ -1,0 +1,3 @@
+
+SQL Cheet Sheet
+http://www.shigemk2.com/entry/inner_join_/_outer_join
